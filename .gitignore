@@ -50,3 +50,14 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+/.idea/deployment.xml
+/.idea/test.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/encodings.xml
+.idea/deployment.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/test.iml
+.idea/vcs.xml
